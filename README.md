@@ -49,6 +49,6 @@
    <b>Passo 1: Instalação do Node.JS<b>
    
    O Node.JS é um software que permite a execução de códigos JavaScript fora de um navegador web.
-     Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" tearget = "_Blank">aqui</a> e escolher a versão 16 (mais recomendada).
+     Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" target = "_Blank">aqui</a> e escolher a versão 16 (mais recomendada).
   </p>
 </div>
