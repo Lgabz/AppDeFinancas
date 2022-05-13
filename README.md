@@ -1,7 +1,7 @@
 <h1 align="center"> 💸 AppDeFinancas 💸 </h1>
 
 <div align="center">
-  <img alt="status em desenvolvimento" src="https://img.shields.io/badge/status-em%20desenvolvimento-orange" />
+  <img alt="status em desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-orange" />
 </div>
 
 <div>
