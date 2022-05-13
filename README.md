@@ -1,1 +1,1 @@
-# AppDeFinancas
+# AppDeFinancas - Em andamento
