@@ -34,7 +34,7 @@
 <div>
   <h2> 3. Tecnologias Utilizadas </h2>
   <p>
-    Para a construção da API, foram utilizadas as seguintes tecnologias:
+    Para a construção desta API foram utilizadas as seguintes tecnologias:
   </p>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
