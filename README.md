@@ -42,13 +42,27 @@
 </div>
 
 <div>
-  <h2> 4. Instalação do Projeto </h2>
+  <h2> 4. Instalação e Execução do Projeto </h2>
   <p>
    Para instalar e testar a aplicação em seu dispositivo, deve-se seguir os seguintes passos:
     
-   <b>Passo 1: Instalação do Node.JS<b>
+   - <b>Passo 1: Instalação do Node.JS</b>
    
-   O Node.JS é um software que permite a execução de códigos JavaScript fora de um navegador web.
-     Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" target="_blank" >aqui</a> e escolher a versão 16 (mais recomendada).
+   O Node.JS é um software que permite a execução de códigos JavaScript fora de um navegador web.<br>
+   Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" target="_blank">aqui</a> e escolher a versão 16 (mais recomendada).
+     
+  - <b>Passo 2: Clonar o Repositório da Aplicação</b>
+      
+   Para realizar o clone do repositório, você deve abrir a linha de comando e realizar o comando<br> 
+   `git clone git@github.com:Lgabz/AppDeFinancas.git`
+    
+   - <b>Passo 3: Instalação dos Pacotes</b>
+    
+   Para a instalação dos pacotes, entre no diretório onde foi criado o clone e utilize o comando<br>
+   `npm install`
+    
+   - <b>Passo 4: Execução da API</b>
+    
+   Após instaladas as dependências da aplicação, você poder executar o comando `npm run dev` e acessar o endpoint `http://localhost:3000`
   </p>
 </div>
