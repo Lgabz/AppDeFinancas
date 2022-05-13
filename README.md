@@ -48,9 +48,9 @@
     
    - <b>Passo 1: Instalação do Node.JS</b>
    
-   O Node.JS é um software que permite a execução de códigos JavaScript fora de um navegador web.<br>
-   Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" target="_blank">aqui</a> e escolher a versão 16 (mais recomendada).
-     
+   O Node.JS é um software que permite a execução de códigos JavaScript fora de um navegador web. Para realizar a instalação, você pode clicar <a href="https://nodejs.org/en/" target="_blank">aqui</a> e escolher a versão mais apropriada.<br>
+   Nota: Verifique a versão do Node utilizada e testada nesta API no arquivo package.json
+    
   - <b>Passo 2: Clonar o Repositório da Aplicação</b>
       
    Para realizar o clone do repositório, você deve abrir a linha de comando e realizar o comando<br> 
@@ -63,6 +63,6 @@
     
    - <b>Passo 4: Execução da API</b>
     
-   Após instaladas as dependências da aplicação, você poder executar o comando `npm run dev` e acessar o endpoint `http://localhost:3000`
+   Após instaladas as dependências da aplicação, você poder executar o comando `npm run dev` e rodar um servidor local utilizando o endpoint base da API: `http://localhost:3000`
   </p>
 </div>
