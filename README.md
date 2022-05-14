@@ -63,6 +63,6 @@
     
    - <b>Passo 4: Execução da API</b>
     
-   Após instaladas as dependências da aplicação, você poder executar o comando `npm run dev` e rodar um servidor local utilizando o endpoint base da API: `http://localhost:3000`
+   Após instaladas as dependências da aplicação, você pode executar o comando `npm run dev` e rodar um servidor local utilizando o endpoint base da API: `http://localhost:3000`
   </p>
 </div>
